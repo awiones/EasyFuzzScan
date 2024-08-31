@@ -36,4 +36,5 @@ Welcome to EasyFuzzScan! This Python script is designed to help you identify pot
    git clone
    cd EasyFuzzScan
    pip install -r requirements.txt
+   python3 run.py
    ```
