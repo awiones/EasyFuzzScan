@@ -52,3 +52,6 @@ Copyright © 2024 Awiones. All rights reserved.
 
 This code is protected under copyright law. Unauthorized copying, distribution, or modification of this code is strictly prohibited.
 
+## Note
+
+❤ You guys can ask me or tell me to add more feature, i'm all ears ❤
