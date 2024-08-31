@@ -33,7 +33,7 @@ Welcome to EasyFuzzScan! This Python script is designed to help you identify pot
 1. Install the file:
 
    ```bash
-   git clone
+   git clone https://github.com/awiones/EasyFuzzScan.git
    cd EasyFuzzScan
    pip install -r requirements.txt
    python3 run.py
