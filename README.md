@@ -30,9 +30,10 @@ Welcome to EasyFuzzScan! This Python script is designed to help you identify pot
 
 ### Setup:
 
-1. Ensure you have Python and the `requests` library installed:
+1. Install the file:
 
-| git clone
-| cd EasyFuzzScan
-| pip install -r requirements.txt
-| python3 run.py
+   ```bash
+   git clone
+   cd EasyFuzzScan
+   pip install -r requirements.txt
+   ```
