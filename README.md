@@ -33,7 +33,7 @@ Welcome to EasyFuzzScan! This Python script is designed to help you identify pot
 <div align="center">
 <table border=0 style="border: 1.2px solid #c6c6c6 !important; border-spacing: 2px; width: auto !important;">
 <tr><td valign=top style="border: 1.2px solid #c6c6c6 !important; padding: 2px !important;">
-<div align=center valign=top><img src="./preview.PNG" alt="Preview the tools" style="margin: 0px !important; height: 200px !important;">
+<div align=center valign=top><img src="./preview.PNG" style="margin: 0px !important; height: 800px !important;">
 <p>Preview the tools</p>
 </div>
 </a></td></tr><tr></tr></table></div>
