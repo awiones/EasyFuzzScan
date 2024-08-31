@@ -30,6 +30,14 @@ Welcome to EasyFuzzScan! This Python script is designed to help you identify pot
 
 ### Setup:
 
+<div align="center">
+<table border=0 style="border: 1.2px solid #c6c6c6 !important; border-spacing: 2px; width: auto !important;">
+<tr><td valign=top style="border: 1.2px solid #c6c6c6 !important; padding: 2px !important;">
+<div align=center valign=top><img src="https://via.placeholder.com/600x300.png?text=Example+Output+Screenshot" alt="Example output screenshot" style="margin: 0px !important; height: 200px !important;">
+<p>Example output screenshot</p>
+</div>
+</a></td></tr><tr></tr></table></div>
+
 1. Install the file:
 
    ```bash
@@ -38,3 +46,10 @@ Welcome to EasyFuzzScan! This Python script is designed to help you identify pot
    pip install -r requirements.txt
    python3 run.py
    ```
+
+## Copyright
+
+Copyright © 2024 Awiones. All rights reserved.
+
+This code is protected under copyright law. Unauthorized copying, distribution, or modification of this code is strictly prohibited.
+
