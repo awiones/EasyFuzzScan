@@ -6,28 +6,33 @@
 
 ---
 
-## Introduction
+## Introduction to EasyFuzzScan
 
-EasyFuzzScan is a powerful scanner that extends the capabilities of FUZZing for comprehensive vulnerability scanning.
+Welcome to EasyFuzzScan! This Python script is designed to help you identify potential security vulnerabilities in websites through various scanning techniques.
 
-|    >>================================================================<<
-|    || _____                _____               ____                  ||
-|    ||| ____|__ _ ___ _   _|  ___|   _ ________/ ___|  ___ __ _ _ __  ||
-|    |||  _| / _` / __| | | | |_ | | | |_  /_  /\___ \ / __/ _` | '_ \ ||
-|    ||| |__| (_| \__ \ |_| |  _|| |_| |/ / / /  ___) | (_| (_| | | | |||
-|    |||_____\__,_|___/\__, |_|   \__,_/___/___||____/ \___\__,_|_| |_|||
-|    ||                |___/                                           ||
-|    >>================================================================<<    
-|    
-|                                                                                            
-|    Welcome to EasyFuzzScan Script here you can choose a lot of things!
-|    Made By: https://github.com/awiones
-|
-|    [1] Scan Directory 
-|    [2] Common Backdoor
-|    [3] LFI test
-|    [4] Crack the code!
-|    [0] Exit
-|
-|
-| Pick one: 
+## Features:
+
+* **Directory Scanning:**
+   * Scans a list of directories to check their availability on the target website.
+   * Provides feedback on whether each directory is accessible or results in a 404 error.
+   * Includes a playful message if a directory suddenly returns a 404 status, indicating a potential block.
+
+* **Common Backdoor Testing:** 
+   * Tests a set of known backdoor paths to check for vulnerabilities in the target website. 
+   * Reports back on the accessibility of these paths, including a message if a 404 error is encountered.
+
+* **LFI Fuzzing:**
+   * The Local File Inclusion (LFI) fuzzing function tests various file paths in the target URL to detect potential file inclusion vulnerabilities.
+   * Provides status updates and handles errors gracefully.
+   * Gives a specific message if a 404 error is encountered.
+
+## Usage Instructions:
+
+### Setup:
+
+1. Ensure you have Python and the `requests` library installed:
+
+| git clone
+| cd EasyFuzzScan
+| pip install -r requirements.txt
+| python3 run.py
