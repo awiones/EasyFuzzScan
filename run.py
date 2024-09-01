@@ -753,8 +753,6 @@ def exit_program():
     print("\nBruh...")
     sys.exit(0)
 
-
-
 def invalid_choice():
     print("Invalid choice! Please select a valid option.")
 
