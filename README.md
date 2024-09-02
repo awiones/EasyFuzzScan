@@ -45,12 +45,18 @@ Welcome to EasyFuzzScan! This Python script is designed to help you identify pot
    pip install -r requirements.txt
    python3 run.py
    ```
+## Contributing
 
-## Note
+Contributions are welcome! If you have suggestions, improvements, or bug fixes, please submit a pull request or open an issue.
 
-❤ You guys can ask me or tell me to add more feature, i'm all ears ❤
+- **Fork the Repository**: Create a personal copy of the repository on GitHub.
+- **Make Changes**: Implement your changes and test them locally.
+- **Submit a Pull Request**: Describe your changes and submit a pull request for review.
 
-## Copyright
+## License
 
-Copyright © 2024 Awiones. All rights reserved.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
+
+Made with ❤️ by Awiones
